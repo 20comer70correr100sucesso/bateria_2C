@@ -3,10 +3,10 @@ function Pom (){
     }
     document.querySelector('.tecla_pom').onclick = Pom;
 
-    function Clap (){
-        document.querySelector('#som_tecla_Clap').play();
+    function clap (){
+        document.querySelector('#som_tecla_clap').play();
         }
-        document.querySelector('.tecla_Clap').onclick = Clap ;
+        document.querySelector('.tecla_clap').onclick = clap;
    
         function Tim (){
             document.querySelector('#som_tecla_Tim').play();
