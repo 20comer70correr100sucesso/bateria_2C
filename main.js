@@ -6,7 +6,7 @@ function Pom (){
     function Clap (){
         document.querySelector('#som_tecla_Clap').play();
         }
-        document.querySelector('.tecla_Clap').onclick = Clap;
+        document.querySelector('.tecla_Clap').onclick = Clap ;
    
         function Tim (){
             document.querySelector('#som_tecla_Tim').play();
