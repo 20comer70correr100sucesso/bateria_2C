@@ -1,46 +1,46 @@
-function Pom (){
+function pom (){
     document.querySelector('#som_tecla_pom').play();
     }
-    document.querySelector('.tecla_pom').onclick = Pom;
+    document.querySelector('.tecla_pom').onclick = pom;
 
     function clap (){
         document.querySelector('#som_tecla_clap').play();
         }
         document.querySelector('.tecla_clap').onclick = clap;
    
-        function Tim (){
-            document.querySelector('#som_tecla_Tim').play();
+        function tim (){
+            document.querySelector('#som_tecla_tim').play();
             }
-            document.querySelector('.tecla_Tim').onclick = Tim;
+            document.querySelector('.tecla_tim').onclick = tim;
    
-            function Puff (){
-                document.querySelector('#som_tecla_Puff').play();
+            function puff (){
+                document.querySelector('#som_tecla_puff').play();
                 }
-                document.querySelector('.tecla_Puff').onclick = Puff;
+                document.querySelector('.tecla_puff').onclick = puff;
    
-                function Splashm (){
-                    document.querySelector('#som_tecla_Splash').play();
+                function splashm (){
+                    document.querySelector('#som_tecla_splash').play();
                     }
-                    document.querySelector('.tecla_Splash').onclick = Splash;
+                    document.querySelector('.tecla_splash').onclick = splash;
    
-                    function Toim (){
-                        document.querySelector('#som_tecla_Toim').play();
+                    function toim (){
+                        document.querySelector('#som_tecla_toim').play();
                         }
-                        document.querySelector('.tecla_Toim').onclick = Toim;
+                        document.querySelector('.tecla_toim').onclick = toim;
    
-                        function Psh (){
-                            document.querySelector('#som_tecla_Psh').play();
+                        function psh (){
+                            document.querySelector('#som_tecla_psh').play();
                             }
-                            document.querySelector('.tecla_Psh').onclick = Psh;
+                            document.querySelector('.tecla_psh').onclick = psh;
    
-                            function Tic (){
-                                document.querySelector('#som_tecla_Tic').play();
+                            function tic (){
+                                document.querySelector('#som_tecla_tic').play();
                                 }
-                                document.querySelector('.tecla_Tic').onclick = Tic;
+                                document.querySelector('.tecla_tic').onclick = tic;
    
-                                function Tom (){
-                                    document.querySelector('#som_tecla_Tom').play();
+                                function om (){
+                                    document.querySelector('#som_tecla_tom').play();
                                     }
-                                    document.querySelector('.tecla_Tom').onclick = Tom;
+                                    document.querySelector('.tecla_tom').onclick = tom;
                                    
    
